@@ -1,0 +1,8 @@
+JPEG Bibiliography
+
+1. http://www.w3.org/Graphics/JPEG/jfif3.pdf
+2. http://search.cpan.org/~bettelli/Image-MetaData-JPEG-0.153/lib/Image/MetaData/JPEG/Structures.pod
+3. http://www.ecma-international.org/publications/files/ECMA-TR/TR-098.pdf
+4. http://www.ozhiker.com/electronics/pjmt/jpeg_info/app_segments.html
+5. http://www.ozhiker.com/electronics/pjmt/jpeg_info/standards.html#IRB
+6. https://docs.oracle.com/javase/7/docs/api/javax/imageio/metadata/doc-files/jpeg_metadata.html

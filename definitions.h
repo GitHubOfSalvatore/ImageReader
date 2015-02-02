@@ -1,0 +1,57 @@
+//Header file defining all the macros
+#ifndef DEFINITIONS_H
+#define DEFINITIONS_H
+
+#define SOI 0xD8
+#define SOF0 0xC0
+#define SOF1 0xC1
+#define SOF2 0xC2
+#define SOF3 0xC3
+
+#define SOF5 0xC5
+#define SOF6 0xC6
+#define SOF7 0xC7
+#define SOF8 0xC8
+#define SOF9 0xC9
+#define SOFA 0xCA
+#define SOFB 0xCB
+#define SOFC 0xCC
+#define SOFD 0xCD
+#define SOFE 0xCE
+#define SOFF 0xCF
+
+#define DHT 0xC4
+#define DQT 0xDB
+#define DRI 0xDD
+#define SOS 0xDA
+#define COM 0xFE
+
+#define RST0 0xD0
+#define RST1 0xD1
+#define RST2 0xD2
+#define RST3 0xD3
+#define RST4 0xD4
+#define RST5 0xD5
+#define RST6 0xD6
+#define RST7 0xD7
+
+#define APP0 0xE0
+#define APP1 0xE1
+#define APP2 0xE2
+#define APP3 0xE3
+#define APP4 0xE4
+#define APP5 0xE5
+#define APP6 0xE6
+#define APP7 0xE7
+#define APP8 0xE8
+#define APP9 0xE9
+#define APPA 0xEA
+#define APPB 0xEB
+#define APPC 0xEC
+#define APPD 0xED
+#define APPE 0xEE
+#define APPF 0xEF
+
+#define EOI 0xD9
+
+#endif
